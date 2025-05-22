@@ -1,0 +1,7 @@
+
+-Primeiramente instale o android studio
+-Utilize o comando: npm install
+-Para rodar utilize o comando: npx expo start
+-Simule um dispositivo móvel no android studio
+-No terminal aperte a tecla A para abrir no dispositivo móvel
+-Teste todas as funcionalidades do app no dispositivo móvel do anroid studio
